@@ -1,7 +1,7 @@
 name: SarahBeardmore
 favicon: null
-layout_spectrum: 0.029413122916594148
-typography_spectrum: 0.5427491758018732
+layout_spectrum: 0.52941
+typography_spectrum: 0.58468
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#003374'
+    - '#6585ac'
+    - '#fe8358'
+    - '#0acb80'
+    - '#d1e6fb'
   brandStrength: 0.4938186234794557
-  lightness: 0.4488515695556998
-  saturation: 0.7413114123046398
+  lightness: 0.4375
+  saturation: 0.1875
   rhythmicContrast: 0.945555473677814
 purpose: []
